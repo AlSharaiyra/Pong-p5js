@@ -1,2 +1,6 @@
 # Pong-p5js
-Pong game using p5js library, you are free to copy the code and edit it. //Walid
+# Author: Walid Sharaiyra
+  Pong game using p5.js library, you are free to copy the code and edit it (sketch.js).
+
+# IMPORTANT : 
+  Dont mess with the p5.js file! Dont edit or remove anything!
